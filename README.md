@@ -1,4 +1,4 @@
-kjgame
-======
-
-game
+KJ Games
+=======================
+Gaming and Walkthroughs
+=======================
